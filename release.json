@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "apps":
+  {
+    "launch": [
+      {
+        "version": "1.0.0",
+        "on_demand": true,
+        "release_date": "",
+        "release_note_url": ""
+      }
+    ],
+    "automation_host": [
+      {
+        "version": "2.0.2",
+        "release_date": "",
+        "release_note_url": "",
+        "download_url": "",
+        "compatible_versions": [],
+        "compatible_launch_versions": []
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "",
+        "release_note_url": "",
+        "download_url": "",
+        "compatible_versions": [],
+        "compatible_launch_versions": []
+      }
+    ]
+  }
+}
