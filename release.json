@@ -31,7 +31,7 @@
         "release_note_url": "",
         "download_url": "",
         "compatible_versions": [],
-        "compatible_launch_versions": []
+        "compatible_launch_versions": [1.0.0]
       }
     ]
   }
