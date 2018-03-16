@@ -12,7 +12,7 @@
     ],
     "automation_host": [
       {
-        "version": "2.0.3",
+        "version": "2.0.4",
         "release_date": "",
         "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005284026-qTest-Automation-Agent-Host-Installation-Guide",
         "download_url": "",
