@@ -16,7 +16,7 @@
         "release_date": "",
         "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005284026-qTest-Automation-Agent-Host-Installation-Guide",
         "download_url": "",
-        "compatible_versions": ["2.0.2", "2.0.3", "2.0.3"],
+        "compatible_versions": ["2.0.2", "2.0.3],
         "compatible_launch_versions": []
       },
       {
