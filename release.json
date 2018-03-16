@@ -12,18 +12,18 @@
       {
         "version": "1.0.1",
         "on_demand": true,
-        "release_date": "",
-        "release_note_url": "https://www.qasymphony.com/software-testing-tools/qtest-launch/test-automation-management/"
+        "release_date": "Feb 26, 2018",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/360000039863-qTest-Launch-1-0-OnPremise-Release-Notes-February-2018/"
       }
     ],
     "automation_host": [
       {
         "version": "2.0.3",
-        "release_date": "",
-        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005284026-qTest-Automation-Agent-Host-Installation-Guide",
-        "download_url": "",
-        "compatible_versions": [],
-        "compatible_launch_versions": []
+        "release_date": "Feb 28, 2018",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005561826-qTest-Automation-Host-User-Guide",
+        "download_url": "https://support.qasymphony.com/hc/en-us/articles/115005243923-Download-qTest-Automation-Host",
+        "compatible_versions": ["2.0.2"],
+        "compatible_launch_versions": ["1.0.0", "1.0.1"]
       },
       {
         "version": "2.0.2",
