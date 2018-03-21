@@ -21,7 +21,7 @@
 			"mac":"https://s3.amazonaws.com/qtest-storage/tmp/qtest+automation/2.0.4/agentctl-2.0.4-osx-x64-full.tgz"
 		},
         "compatible_versions": ["2.0.2", "2.0.3", "2.0.4"],
-        "compatible_launch_versions": ["1.0.2"]
+        "compatible_launch_versions": ["1.0.1"]
 	},
 	{
         "version": "2.0.4",
@@ -33,7 +33,7 @@
 			"mac":"https://s3.amazonaws.com/qtest-storage/tmp/qtest+automation/2.0.4/agentctl-2.0.4-osx-x64-full.tgz"
 		},
         "compatible_versions": ["2.0.2", "2.0.3"],
-        "compatible_launch_versions": ["1.0.2"]
+        "compatible_launch_versions": ["1.0.1"]
     },
 	{
         "version": "2.0.3",
