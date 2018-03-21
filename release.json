@@ -12,6 +12,18 @@
     ],
     "automation_host": [
 	{
+        "version": "2.0.6",
+        "release_date": "2018-04-20T09:57:49.168Z",
+        "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005284026-qTest-Automation-Agent-Host-Installation-Guide",
+        "download_url": {
+			"windows": "https://s3.amazonaws.com/qtest-storage/tmp/qtest+automation/2.0.4/agentctl-2.0.4-windows-x64-full.zip", 
+			"linux":"https://s3.amazonaws.com/qtest-storage/tmp/qtest+automation/2.0.4/agentctl-2.0.4-linux-x64-full.tgz", 
+			"mac":"https://s3.amazonaws.com/qtest-storage/tmp/qtest+automation/2.0.4/agentctl-2.0.4-osx-x64-full.tgz"
+		},
+        "compatible_versions": ["2.0.2", "2.0.3", "2.0.4", "2.0.5"],
+        "compatible_launch_versions": ["1.0.1"]
+	},
+	{
         "version": "2.0.5",
         "release_date": "2018-03-20T09:57:49.168Z",
         "release_note_url": "https://support.qasymphony.com/hc/en-us/articles/115005284026-qTest-Automation-Agent-Host-Installation-Guide",
